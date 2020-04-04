@@ -8,6 +8,7 @@ that file doesn't exist because of express (different file structure)
 */
 
 module.exports = {
+  mode: 'production',
   entry: './src/client/index.js',
   module: {
     rules: [
