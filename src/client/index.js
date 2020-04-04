@@ -4,3 +4,4 @@ import img from './img/favicon.png';
 
 console.log(checkForName);
 alert('I exist!');
+alert('I exist!');
